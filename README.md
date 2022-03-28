@@ -42,7 +42,7 @@
 ## Social
 ### Preview
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/79349878/160470995-c1dfaa80-ee4e-418c-a6ca-6c012290e6db.gif">
+  <img src="https://user-images.githubusercontent.com/79349878/160475321-901ed67f-14a0-4532-9a0f-e3493eaf6843.gif">
 </div>
 
 ## Contact
